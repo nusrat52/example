@@ -1,0 +1,1 @@
+Burada yaradacagimiz app haqqinda instruktiv yazilar olmalidi
